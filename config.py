@@ -16,4 +16,4 @@ model_engine = "gpt-3.5-turbo"
 
 # Get your API_KEY by creating an OpenAi account and the go here: 
 # https://platform.openai.com/account/api-keys
-openai_key = ""
+openai_key = "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"
